@@ -16,6 +16,7 @@ This program implements a convolutional neural network (CNN) using PyTorch to cl
 - Horses
 - Ships
 - Trucks
+  
 Each image is a 32x32 RGB image.
 
 
