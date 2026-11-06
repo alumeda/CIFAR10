@@ -29,3 +29,4 @@ Each image is a 32x32 RGB image.
 - Data Analysis
 - Data Processing
 - Machine Learning Model Training and Development
+- Python
