@@ -28,5 +28,5 @@ Each image is a 32x32 RGB image.
 - sklearn
 - Data Analysis
 - Data Processing
-- Machine Learning Model Training and Development
+- Machine Learning Algorithms
 - Python
